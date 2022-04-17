@@ -16,7 +16,7 @@
 
 
 
-UI部分が**Tkinter**で作成予定だが、まだUIは何も触れていない...
+UI部分は**Tkinter**で作成予定だが、まだUIは何も触れていない...
 
 ## Installation
 
