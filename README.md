@@ -12,8 +12,8 @@
 | ネットワーク構成 | ResNet |
 | 学習方法 | 強化学習 |
 
+![ダウンロード](https://user-images.githubusercontent.com/77392836/163723597-0a1ed009-7662-454f-aa42-9698468475b5.png)
 
-![image](https://user-images.githubusercontent.com/77392836/163723375-478f4acf-23cd-43f8-a5c4-810ff613edf7.png)
 
 
 
