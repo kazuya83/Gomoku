@@ -13,6 +13,10 @@
 | 学習方法 | 強化学習 |
 
 
+![image](https://user-images.githubusercontent.com/77392836/163723375-478f4acf-23cd-43f8-a5c4-810ff613edf7.png)
+
+
+
 ## Installation
 
 ```sh
